@@ -1,11 +1,11 @@
 # What's in  San Francisco Airbnb data?
 Libraries Used:
--Pandas
--Numpy
--NLTK
--Langid
--Textblob
--Matplotlib
+- Pandas
+- Numpy
+- NLTK
+- Langid
+- Textblob
+- Matplotlib
 
 Project Motivation:
 It's to understand how does Airbnb work in San Francisco. We can understand 
@@ -19,10 +19,6 @@ It's to understand how does Airbnb work in San Francisco. We can understand
 Files uploaded:
 
 - Airbnb San Francisco Analysis.ipynb - File contains detailed analysis of the business questions
-
-- listings.csv - File contains listings data
-
-- reviews.csv - File contains reviews data
 
 Summary:
 
