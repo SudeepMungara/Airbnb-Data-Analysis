@@ -31,6 +31,6 @@ Summary:
 Acknowledgments:
 1. http://insideairbnb.com/get-the-data/ - Airbnb Dataset
 
-
+Medium - https://medium.com/@msudeep27/whats-in-san-francisco-airbnb-data-cb4bc24e3250
 
 
